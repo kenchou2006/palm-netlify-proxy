@@ -38,7 +38,7 @@ export default async (request: Request, context: Context) => {
 </head>
 <body>
   <h1 id="google-palm-api-proxy-on-netlify-edge">Google PaLM API proxy on Netlify Edge</h1>
-  <p>Gemini API Proxy by Ken</p>
+  <p>Proxy by Ken</p>
   <p>Tips: This project uses a reverse proxy to solve problems such as location restrictions in Google APIs. </p>
   <p>If you have any of the following requirements, you may need the support of this project.</p>
   <ol>
